@@ -48,7 +48,7 @@ El código está organizado en tres funciones principales:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/sindresorhus/del
+   git clone git@github.com:r3dison/Challenge-Amigo-Secreto.git
    ```
 
 2. Abre el archivo index.html en tu navegador.
